@@ -1,0 +1,5 @@
+venv/
+*pyc
+SeedBalanceChecker/api.py
+SeedBalanceChecker/__pycache__/
+__pycache__/
